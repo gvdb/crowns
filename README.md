@@ -8,6 +8,18 @@
     1. [Action Phase](#action-phase)
     1. [Discard Phase](#discard-phase)
         1. [Tombs](#tombs)
+5. Objective
+6. Cards
+    1. Kings and Queens
+    1. Numbered (A – 10)
+    1. Jacks
+7. Rallying Troops
+8. Raiding
+    1. Initiating a Raid
+    1. Accessing Target
+    1. Encountering and Passing Troops
+9. Ending the Game
+10. Variant with +3 Players
 
 ## Overview
 CROWNS is a game of strategy, cunning, and luck where players manage a realm's dynasty as kings and queens reign and fall. Choose when to coronate a monarch and seat them on the throne, oversee their rule, use the aristocracy to your advantage, and amass an army to protect your strongholds and usurp the royalty of rival kingdoms.
@@ -27,3 +39,15 @@ Kings come and go, but the crown endures.
 ### Action Phase
 ### Discard Phase
 #### Tombs
+## Objective
+## Cards
+### Kings and Queens
+### Numbered (A – 10)
+### Jacks
+## Rallying
+## Raiding
+### Initiating a Raid
+### Accessing Target
+### Encountering and Passing Troops
+## Ending the Game
+## Variant with +3 Players
