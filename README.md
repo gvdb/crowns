@@ -1,12 +1,12 @@
 # How to Play Crowns
-# Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+## Table of Contents
+1. [Overview](#overview)
+2. [Setup](#setup)
+3. [Play Areas](#play_areas)
+4. [Playing the Game](playing_the_game)
 
 
-## Example
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
+## Overview
+## Setup
+## Play Areas
+## Playing the Game
