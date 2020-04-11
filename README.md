@@ -2,8 +2,8 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Setup](#setup)
-3. [Play Areas](#play_areas)
-4. [Playing the Game](playing_the_game)
+3. [Play Areas](#play-areas)
+4. [Playing the Game](playing-the-game)
 
 
 ## Overview
