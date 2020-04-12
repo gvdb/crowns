@@ -25,6 +25,7 @@
 CROWNS is a game of strategy, cunning, and luck where players manage a realm's dynasty as kings and queens reign and fall. Choose when to coronate a monarch and seat them on the throne, oversee their rule, use the aristocracy to your advantage, and amass an army to protect your strongholds and usurp the royalty of rival kingdoms.
 
 Kings come and go, but the crown endures.
+
 ## Setup
 1.	Determine the dealer in whatever random way players choose
 1.	For a 2 player game, shuffle a deck of 52 standard playing cards
@@ -41,6 +42,8 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 * Houses: Where scored or stolen Kings and Queens are placed (face up)
 * Tombs: Where discarded cards are placed (face up or face down)
 * Rally Points / Troops: Rallied Troops in front of a player’s Stronghold and Throne are used for defence and attack (face up or face down)
+
+![alt text](https://github.com/gvdb/crowns/blob/master/play_areas.png "Play Areas")
 
 ## Playing the Game
 Play progresses clock-wise, starting with the first player to the left of the dealer. A player’s turn consists of three phases in the following order (DAD):
