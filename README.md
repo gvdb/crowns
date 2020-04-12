@@ -35,7 +35,7 @@ Kings come and go, but the crown endures.
 1.	The player to the left of the dealer goes first and the order of players proceeds clockwise
 
 ## Play Areas
-In CROWNS each player manages their own play area i.e. their Realm. A Realm consists of a House, Throne, Stronghold, Tombs, and Rally Points (four for each player). At the beginning of the game, besides the Deck and the 5 cards in the players’ hands (represented by their Stronghold), all areas are empty. The figure on the following page is an example of an in-progress 2 player game. It illustrates the following:
+In CROWNS each player manages their own play area i.e. their Realm. A Realm consists of a House, Throne, Stronghold, Tombs, and Rally Points (four for each player). At the beginning of the game, besides the Deck and the 5 cards in the players’ hands (represented by their Stronghold), all areas are empty. The figure below is an example of an in-progress 2 player game. It illustrates the following:
 * Deck: Where players draw cards from
 * Strongholds: Represents the players’ hand of cards
 * Thrones: Where Kings, Queens, and Jacks can be “coronated” (face down) and advanced
