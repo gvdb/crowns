@@ -47,12 +47,12 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 
 ## Playing the Game
 Play progresses clock-wise, starting with the first player to the left of the dealer. A player’s turn consists of three phases in the following order (DAD):
-1.	__Draw:__ At the beginning of their turn the player must draw one card from the deck and add it to their hand
+1.	__Draw:__ At the beginning of their turn the player must draw one card from the deck and add it to their Stronghold (i.e. hand)
 2.	__Actions:__ The player has three actions they may use on particular abilities
-3.	__Discard:__ If the player has more than 5 cards in their hand they must discard down to 5 cards. If they have 5 or less cards this phase is skipped
+3.	__Discard:__ If the player has more than 5 cards in their Stronghold they must discard down to 5 cards. If they have 5 or less cards this phase is skipped
 
 ### Draw Phase
-* A player’s turn is started, by drawing 1 card from the top of the deck and adding it to their hand
+* A player’s turn is started, by drawing 1 card from the top of the deck and adding it to their Stronghold
 * A player cannot pass on this step
 * This step doesn’t cost an action. Actions are only used in the Action Phase
 * If there are no cards in the deck when the player begins their turn, this step is skipped and the player is allowed to finish their turn
@@ -61,11 +61,11 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * The player then has 3 actions they may use on their turn
 * Players can pass on any actions in their turn
 * The actions available to a player are (DCARR):
-* __Draw:__ The player takes the top card from the deck and adds it to their hand
-* __Coronate:__ The player takes a card from their hand and places it, face down, on the Throne (the area to their right). Only Kings, Queens, and Jacks can be placed on the Throne
+* __Draw:__ The player takes the top card from the deck and adds it to their Stronghold
+* __Coronate:__ The player takes a card from their Stronghold and places it, face down, on the Throne (the area to their right). Only Kings, Queens, and Jacks can be placed on the Throne
 * __Advance:__ The player places a card, face down, on a card already on the Throne to advance it
 * __Rally:__ The player places a card or cards on rally points in front of their Throne or Stronghold
-* __Raid:__ If the player can pass any Rallied Troops during a raid they may access cards from the opposing player’s Throne, Stronghold (Hand), or Tombs. A player’s House and the Deck cannot be raided
+* __Raid:__ If the player can pass any Rallied Troops during a raid they may access cards from the opposing player’s Throne, Stronghold, or Tombs. A player’s House and the Deck cannot be raided
 
 ### Discard Phase
 * Once all three actions are spent, or the player passes on their actions, if they have more than 5 cards in their Stronghold they must discard down to 5 cards
@@ -90,7 +90,7 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
     + __Advanced:__ Once placed on the Throne Kings and Queens can be advanced. To be scored Kings must be advanced 4 times, and Queens 3 times
     + __Scored or Stolen:__ When scored or stolen a King or Queen is placed in the House area of the player who possesses it. Kings are worth 2 points and Queens are worth 1 point
 * Kings and Queens can’t be used for advancing, rallying, reinforcing, payment, or any other purpose
-* If the player doesn’t want Kings or Queens in their hand, during the Discard Phase of their turn they can be shuffled back into the deck. The player can only do this if it doesn’t bring the number of cards in their hand below 5
+* If the player doesn’t want Kings or Queens in their Stronghold, during the Discard Phase of their turn they can be shuffled back into the deck. The player can only do this if it doesn’t bring the number of cards in their Stronghold below 5
 
 ### Numbered (A – 10)
 * These cards can be used for:
@@ -108,13 +108,13 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
         - The Jack can’t be scored and awards no points. Advancing has no effect other than to make the deception to the other player(s) more convincing
         - If accessed by a Raiding player (in the defending player’s Throne) the defending player can remove a pair of Troop cards from a rally point of the raiding player’s Throne or Stronghold. The Jack is then discarded
         - If a Jack is currently on a player’s Throne and they want to put another card there, the Jack and any cards used to advance it are discarded to Tombs
-    + __As a Troop:__ If placed as a part of a Troop it adds the additional requirement that the Raiding player must discard a card from their hand to pass it, known as a toll. The Raiding player must still be able to match the strength of the Troops encountered to pass. Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
-    + __In the Stronghold:__ During a Raid if a Jack is accessed from the defending player’s Stronghold (hand) the Jack returns to the defending player’s Stronghold and the raiding player must discard one card from their hand to their Tombs
+    + __As a Troop:__ If placed as a part of a Troop it adds the additional requirement that the Raiding player must discard a card from their Stronghold to pass it, known as a toll. The Raiding player must still be able to match the strength of the Troops encountered to pass. Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
+    + __In the Stronghold:__ During a Raid if a Jack is accessed from the defending player’s Stronghold the Jack returns to the defending player’s Stronghold and the raiding player must discard one card from their Stronghold to their Tombs
         - If the raiding player only has Kings or Queens, they choose one to be shuffled back into the deck
-        - If the raiding player has no cards in their hand the raid ends
+        - If the raiding player has no cards in their Stronghold the raid ends
 
 ## Rallying
-* A player has a total of four rally points where Troops can be placed; two in front of their Throne and two in front of their Stronghold (hand). The House and Tombs have no rally points
+* A player has a total of four rally points where Troops can be placed; two in front of their Throne and two in front of their Stronghold. The House and Tombs have no rally points
 * Troops must be placed at the innermost empty rally point
 * Newly rallied Troops may be placed face down to conceal the Troop strength and suit to the opposing player. Troops already face up must remain face up i.e. they have been “scouted”
 * Troops can be rallied in the following ways:
@@ -129,10 +129,10 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
 
 ### Accessing Target
 * If there are no Troops protecting the target the Raiding player immediately gains access
-* If the Raiding player accesses the __Stronghold__ they may choose a single card from the other player’s hand. If it is a:
-    + __Numbered (A–10):__ The Raiding player may discard it if they also discard a card from their hand. Otherwise the card returns to the defending player’s hand
+* If the Raiding player accesses the __Stronghold__ they may choose a single card from the other player’s Stronghold. If it is a:
+    + __Numbered (A–10):__ The Raiding player may discard it if they also discard a card from their Stronghold. Otherwise the card returns to the defending player’s Stronghold
     + __King or Queen:__ They may steal it and add it to their House to score it
-    + __Jack:__ Then the raiding player must discard one card from their hand to their Tombs. If they only have Kings or Queens they must pick one to be shuffled back into the deck. If they have no cards, the raid ends
+    + __Jack:__ Then the raiding player must discard one card from their Stronghold to their Tombs. If they only have Kings or Queens they must pick one to be shuffled back into the deck. If they have no cards, the raid ends
     + __No Cards:__ If there are no cards in the Stronghold the raid ends
 * If the Raiding player accesses the __Throne__, and there is a card on it, they may see the card there. If it is a:
     + __King or Queen:__ The raiding player steals and scores it, adding it to their House
