@@ -31,7 +31,7 @@ Kings come and go, but the crown endures.
 1.	For a 2 player game, shuffle a deck of 52 standard playing cards
 1.	The dealer deals, one by one, 5 cards to each player
 1.	Any player may choose to “mulligan” by having a new hand dealt and shuffling the cards from their original hand back into the deck. Players can only mulligan once at the start of the game
-1.	Place the remaining deck of cards between players. Each player will draw from this deck
+1.	Place the remaining Deck of cards between players. Each player will draw from this Deck
 1.	The player to the left of the dealer goes first and the order of players proceeds clockwise
 
 ## Play Areas
@@ -47,21 +47,21 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 
 ## Playing the Game
 Play progresses clock-wise, starting with the first player to the left of the dealer. A player’s turn consists of three phases in the following order (DAD):
-1.	__Draw:__ At the beginning of their turn the player must draw one card from the deck and add it to their Stronghold (i.e. hand)
+1.	__Draw:__ At the beginning of their turn the player must draw one card from the Deck and add it to their Stronghold (i.e. hand)
 2.	__Actions:__ The player has three actions they may use on particular abilities
 3.	__Discard:__ If the player has more than 5 cards in their Stronghold they must discard down to 5 cards. If they have 5 or less cards this phase is skipped
 
 ### Draw Phase
-* A player’s turn is started, by drawing 1 card from the top of the deck and adding it to their Stronghold
+* A player’s turn is started, by drawing 1 card from the top of the Deck and adding it to their Stronghold
 * A player cannot pass on this step
 * This step doesn’t cost an action. Actions are only used in the Action Phase
-* If there are no cards in the deck when the player begins their turn, this step is skipped and the player is allowed to finish their turn
+* If there are no cards in the Deck when the player begins their turn, this step is skipped and the player is allowed to finish their turn
 
 ### Action Phase
 * The player then has 3 actions they may use on their turn
 * Players can pass on any actions in their turn
 * The actions available to a player are (DCARR):
-    + __Draw:__ The player takes the top card from the deck and adds it to their Stronghold
+    + __Draw:__ The player takes the top card from the Deck and adds it to their Stronghold
     + __Coronate:__ The player takes a card (J, Q, K) from their Stronghold and places it, face down, on the Throne (the area to their right)
     + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
     + __Rally:__ The player places a card or cards (A – J) on rally points in front of their Throne or Stronghold
@@ -71,8 +71,8 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * Once all three actions are spent, or the player passes on their actions, if they have more than 5 cards in their Stronghold they must discard down to 5 cards
 * If the player has 5 or less cards in their Stronghold they are not allowed to discard any cards and this phase is skipped
 * Besides Kings and Queens, cards are discarded to the Tombs area
-* The player may remove Kings or Queens from their Stronghold during this phase, but they can’t discard them to the Tombs. Instead they add them back to the deck
-    + To do this they show their opponent(s) the Kings/Queens they are removing from their Stronghold, the opponent to their left then randomly cuts them back into the deck. The dealer then shuffles the deck
+* The player may remove Kings or Queens from their Stronghold during this phase, but they can’t discard them to the Tombs. Instead they add them back to the Deck
+    + To do this they show their opponent(s) the Kings/Queens they are removing from their Stronghold, the opponent to their left then randomly cuts them back into the Deck. The dealer then shuffles the Deck
 * The next player, in clock-wise order, begins their turn
 
 #### Tombs
@@ -90,7 +90,7 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
     + __Advanced:__ Once placed on the Throne Kings and Queens can be advanced. To be scored Kings must be advanced 4 times, and Queens 3 times
     + __Scored or Stolen:__ When scored or stolen a King or Queen is placed in the House area of the player who possesses it. Kings are worth 2 points and Queens are worth 1 point
 * Kings and Queens can’t be used for advancing, rallying, reinforcing, payment, or any other purpose
-* If the player doesn’t want Kings or Queens in their Stronghold, during the Discard Phase of their turn they can be shuffled back into the deck. The player can only do this if it doesn’t bring the number of cards in their Stronghold below 5
+* If the player doesn’t want Kings or Queens in their Stronghold, during the Discard Phase of their turn they can be shuffled back into the Deck. The player can only do this if it doesn’t bring the number of cards in their Stronghold below 5
 
 ### Numbered (A – 10)
 * These cards can be used for:
@@ -110,7 +110,7 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
         - If a Jack is currently on a player’s Throne and they want to put another card there, the Jack and any cards used to advance it are discarded to Tombs
     + __As a Troop:__ If placed as a part of a Troop it adds the additional requirement that the Raiding player must discard a card from their Stronghold to pass it, known as a toll. The Raiding player must still be able to match the strength of the Troops encountered to pass. Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
     + __In the Stronghold:__ During a Raid if a Jack is accessed from the defending player’s Stronghold the Jack returns to the defending player’s Stronghold and the raiding player must discard one card from their Stronghold to their Tombs
-        - If the raiding player only has Kings or Queens, they choose one to be shuffled back into the deck
+        - If the raiding player only has Kings or Queens, they choose one to be shuffled back into the Deck
         - If the raiding player has no cards in their Stronghold the raid ends
 
 ## Rallying
@@ -132,7 +132,7 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
 * If the Raiding player accesses the __Stronghold__ they may choose a single card from the other player’s Stronghold. If it is a:
     + __Numbered (A–10):__ The Raiding player may discard it if they also discard a card from their Stronghold. Otherwise the card returns to the defending player’s Stronghold
     + __King or Queen:__ They may steal it and add it to their House to score it
-    + __Jack:__ Then the raiding player must discard one card from their Stronghold to their Tombs. If they only have Kings or Queens they must pick one to be shuffled back into the deck. If they have no cards, the raid ends
+    + __Jack:__ Then the raiding player must discard one card from their Stronghold to their Tombs. If they only have Kings or Queens they must pick one to be shuffled back into the Deck. If they have no cards, the raid ends
     + __No Cards:__ If there are no cards in the Stronghold the raid ends
 * If the Raiding player accesses the __Throne__, and there is a card on it, they may see the card there. If it is a:
     + __King or Queen:__ The raiding player steals and scores it, adding it to their House
@@ -156,8 +156,8 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
 
 ## Ending the Game
 * To end the game a player must score or steal 5 points worth of Kings and Queens
-* The game may also end when there are no cards left in the deck:
-    + Once the last card is drawn from the deck the player who drew the card gets to finish their turn. If they manage to reach 5 points on this turn the game ends and they win
+* The game may also end when there are no cards left in the Deck:
+    + Once the last card is drawn from the Deck the player who drew the card gets to finish their turn. If they manage to reach 5 points on this turn the game ends and they win
     + Otherwise the other player(s) get to play one last turn before the game ends. If anyone reaches 5 points on their final turn the game immediately ends and they win
     + If after the final turn no player has 5 points, the player with the most points wins
     + If there’s a draw on points, the player with the most Kings wins. If there are equal Kings or no Kings scored, it is a draw
@@ -166,9 +166,9 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
 ## Variant with +3 Players
 The game can be played with 3 or more players:
 * For each additional player add an additional half-deck of cards to the game:
-    + For each extra player shuffle half a deck of cards into the full deck
+    + For each extra player shuffle half a deck of cards into the full Deck
 * As an additional condition of raiding, the raiding player must declare the player they’re attacking as well as the target i.e. their Throne or Stronghold
 * All the same rules of raiding in a 2 player game apply once a raid is initiated between the two players
 * Forming and breaking alliances between players is encouraged in games of more than two players.
 
-*Designed by Glen van den Bergen*
+*Game designed by Glen van den Bergen*
