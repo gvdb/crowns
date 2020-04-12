@@ -96,8 +96,8 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
 * These cards can be used for:
     + __Rallying Troops:__ By placing the card(s) as Troops on a rally point in front of the player’s Stronghold or Throne. Troops are used for both defending and attacking
     + __Advancing:__ By placing the card, face down, on a card on the Throne. Once a card is removed from the Throne the cards used for advancing it are discarded
-    + __Reinforcing:__ By placing the card, face down, on existing Troops during a Raid. This does not cost an action. Once a Raid ends any cards used for reinforcing are discarded
-    + __Payment:__ Can be used to pay for the Jack’s toll and discarding a numbered card accessed from the opponent’s Stronghold
+    + __Reinforcing:__ By placing the card, face down, on existing Troops during a Raid. This does not cost an action. Once a Raid ends any cards used for reinforcing are discarded. Cards used for reinforcement are placed face down because their face value and suit are not used
+    + __Payment:__ By placing the card, face down, next to the Jack the toll is being paid for in encountered Troops during a raid. TODO ?? or a Jack encountered when accessing from the opponent’s Stronghold
 * Numbered cards can’t be placed on the Throne (i.e. coronated) like Kings, Queens or Jacks
 
 ### Jacks
