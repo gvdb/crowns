@@ -1,4 +1,4 @@
-# How to Play Crowns
+# How to Play CROWNS
 ## Table of Contents
 1. [Overview](#overview)
 2. [Setup](#setup)
@@ -170,3 +170,5 @@ The game can be played with 3 or more players:
 * As an additional condition of raiding, the raiding player must declare the player they’re attacking as well as the target i.e. their Throne or Stronghold
 * All the same rules of raiding in a 2 player game apply once a raid is initiated between the two players
 * Forming and breaking alliances between players is encouraged in games of more than two players.
+
+*Designed by Glen van den Bergen*
