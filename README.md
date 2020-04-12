@@ -62,9 +62,9 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * Players can pass on any actions in their turn
 * The actions available to a player are (DCARR):
     + __Draw:__ The player takes the top card from the deck and adds it to their Stronghold
-    + __Coronate:__ The player takes a card from their Stronghold and places it, face down, on the Throne (the area to their right). Only Kings, Queens, and Jacks can be placed on the Throne
-    + __Advance:__ The player places a card, face down, on a card already on the Throne to advance it
-    + __Rally:__ The player places a card or cards on rally points in front of their Throne or Stronghold
+    + __Coronate:__ The player takes a card (J, Q, K) from their Stronghold and places it, face down, on the Throne (the area to their right)
+    + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
+    + __Rally:__ The player places a card or cards (A – J) on rally points in front of their Throne or Stronghold
     + __Raid:__ If the player can pass any Rallied Troops during a raid they may access cards from the opposing player’s Throne, Stronghold, or Tombs. A player’s House and the Deck cannot be raided
 
 ### Discard Phase
