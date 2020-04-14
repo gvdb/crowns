@@ -28,9 +28,9 @@ Kings come and go, but the crown endures.
 
 ## Setup
 1.	Determine the dealer in whatever random way players choose
-1.	For a 2 player game, shuffle a deck of 52 standard playing cards
+1.	For a 2 player game, shuffle a deck of 52 standard playing cards (A – K, four suits)
 1.	The dealer deals, one by one, 5 cards to each player
-1.	Any player may choose to “mulligan” by having a new hand dealt and shuffling the cards from their original hand back into the deck. Players can only mulligan once at the start of the game
+1.	Any player may choose to "mulligan" by having a new hand dealt and shuffling the cards from their original hand back into the deck. Players can only mulligan once at the start of the game
 1.	Place the remaining Deck of cards between players. Each player will draw from this Deck
 1.	The player to the left of the dealer goes first and the order of players proceeds clockwise
 
