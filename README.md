@@ -37,11 +37,11 @@ Kings come and go, but the crown endures.
 ## Play Areas
 In CROWNS each player manages their own play area i.e. their Realm. A Realm consists of a House, Throne, Stronghold, Tombs, and Troop Rally Points (four for each player). At the beginning of the game, besides the Deck and the 5 cards in the players' hands (represented by their Stronghold), all areas are empty. The figure below is an example of an in-progress 2 player game. It illustrates the following:
 * __Deck:__ Where players draw cards from
-* __Strongholds:__ Represents the players' hand of cards
+* __Strongholds:__ Represents the players' hands of cards
 * __Thrones:__ Where Kings, Queens, and Jacks can be “coronated” (face down) and advanced
 * __Houses:__ Where scored or stolen Kings and Queens are placed (face up)
 * __Tombs:__ Where discarded cards are placed (face up or face down)
-* __Rally Points / Troops:__ Rallied Troops in front of a player's Stronghold and Throne are used for defence and attack (face up or face down)
+* __Rally Points / Troops:__ Empty Rally Points and Troops that have been rallied in front of Strongholds and Thrones (face up or face down)
 
 ![alt text](https://github.com/gvdb/crowns/blob/master/play_areas.png "Play Areas")
 
