@@ -65,7 +65,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
     + __Coronate:__ The player takes a card (J, Q, K) from their Stronghold and places it, face down, on the Throne (the area to their right)
     + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
     + __Rally:__ The player places a card or cards (A – J) on rally points in front of their Throne or Stronghold
-    + __Raid:__ If the player can pass any Rallied Troops during a raid they may access cards from the opposing player's Throne, Stronghold, or Tombs. A player's House and the Deck cannot be raided
+    + __Raid:__ The player attacks an opponent's realm. If the player can pass any Rallied Troops during a raid they may access cards from the opposing player's Throne, Stronghold, or Tombs. A player's House and the Deck cannot be raided
 
 ### Discard Phase
 * Once all three actions are spent, or the player passes on their actions, if they have more than 5 cards in their Stronghold they must discard down to 5 cards
