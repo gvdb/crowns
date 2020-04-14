@@ -76,7 +76,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * The next player, in clock-wise order, begins their turn
 
 #### Tombs
-* Cards are placed in the Tombs either face up or face down, based on their state at the time they are discarded i.e. if all players know what the cards are at the time they are discarded they are placed in the Tombs face up. This is relevant for cards that are discarded in other ways, such as cards discarded during a successful raid
+* Cards are placed in the Tombs either face up or face down, based on their state at the time they are discarded i.e. if all players know what the cards are at the time they are discarded they are placed in the Tombs face up. This is relevant for cards that are discarded in other ways, such as cards discarded during a raid
 * A player may inspect any face up cards in the Tombs at any time during play. This is true of the player's own Tombs or viewing the opponent(s)
 * When the Tombs are accessed during a raid all the cards currently in the Tombs are turned face up from that point forward. Cards placed in the Tombs thereafter are still discarded in the state they were at the time they are discarded i.e. face up or face down. Players must raid the Tombs again to turn face down cards face up
 
