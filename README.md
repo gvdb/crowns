@@ -100,9 +100,9 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
     + __Payment:__ By placing the card, face down, next to the Jack the toll is being paid for in encountered Troops during a raid. Can also be used for payment when encountering a Jack in the opponent's Stronghold
 * Numbered cards can't be placed on the Throne (i.e. coronated) like Kings, Queens or Jacks
 
-### Jacks
+### Jacks (The Jack of all Trades)
 * Can be used in all the same ways that numbered cards are used i.e. can be used for advancing, reinforcing, payment, and rallying Troops 
-* Treated like a 10 for strength when used as a Troop card
+* Treated like a 10 for strength when rallied as a Troop card
 * Also has these additional abilities:
     + __On the Throne:__ Can be placed on the Throne like a King or Queen (i.e. coronated) to be advanced as a “False Crown”
         - The Jack can't be scored and awards no points. Advancing has no effect other than to make the deception to the other player(s) more convincing
