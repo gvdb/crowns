@@ -66,7 +66,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
     + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
     + __Rally:__ The player places a card or cards (A – J) on rally points in front of their Throne or Stronghold
     + __Recall__: The player can return already rallied Troops back to their Stronghold. Note: If rallying new Troops where there are existing Troops, the existing Troops are automatically recalled to the Stronghold without having to spend an additional action for the recall
-    + __Raid:__ The player attacks an opponent's realm. If the player can pass any Rallied Troops during a raid they may access cards from the opposing player's Throne, Stronghold, or Tombs. A player's House and the Deck cannot be raided
+    + __Raid:__ The player attacks an opponent's realm. If the player can pass any Rallied Troops during a raid they may access cards from the opposing player's Throne or Stronghold. A player's House and Tombs can not be raided. The Deck cannot be raided
 
 ### Discard Phase
 * Once all three actions are spent, or the player passes on their actions, if they have more than 5 cards in their Stronghold they must discard down to 5 cards
@@ -79,7 +79,6 @@ Play progresses clock-wise, starting with the first player to the left of the de
 #### Tombs
 * Cards are placed in the Tombs either face up or face down, based on their state at the time they are discarded i.e. if all players know what the cards are at the time they are discarded they are placed in the Tombs face up. This is relevant for cards that are discarded in other ways, such as cards discarded during a raid
 * A player may inspect any face up cards in the Tombs at any time during play. This is true of the player's own Tombs or viewing the opponent(s)
-* When the Tombs are accessed during a raid all the cards currently in the Tombs are turned face up from that point forward. Cards placed in the Tombs thereafter are still discarded in the state they were at the time they are discarded i.e. face up or face down. Players must raid the Tombs again to turn face down cards face up
 
 ## Objective
 To win the game a player must score or steal 5 points worth of King and Queen cards.
