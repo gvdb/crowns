@@ -65,6 +65,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
     + __Coronate:__ The player takes a card (J, Q, K) from their Stronghold and places it, face down, on the Throne (the area to their right)
     + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
     + __Rally:__ The player places a card or cards (A – J) on rally points in front of their Throne or Stronghold
+    + __Recall__: The player can return already rallied Troops back to their Stronghold. Note: If rallying new Troops where there are existing Troops, the existing Troops are automatically recalled to the Stronghold without having to spend an additional action for the recall
     + __Raid:__ The player attacks an opponent's realm. If the player can pass any Rallied Troops during a raid they may access cards from the opposing player's Throne, Stronghold, or Tombs. A player's House and the Deck cannot be raided
 
 ### Discard Phase
