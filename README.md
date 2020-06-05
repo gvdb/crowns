@@ -52,7 +52,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
 3.	__Discard:__ If the player has more than 5 cards in their Stronghold they must discard down to 5 cards. If they have 5 or less cards this phase is skipped
 
 ### Draw Phase
-* A player's turn is started, by drawing 1 card from the top of the Deck and adding it to their Stronghold
+* A player's turn is started by drawing 1 card from the top of the Deck and adding it to their Stronghold
 * A player cannot pass on this step
 * This step doesn't cost an action. Actions are only used in the Action Phase
 * If there are no cards in the Deck when the player begins their turn, this step is skipped and the player is allowed to finish their turn
