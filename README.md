@@ -81,7 +81,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * A player may inspect any face up cards in the Tombs at any time during play. This is true of the player's own Tombs or viewing the opponent(s)
 
 ## Objective
-To win the game a player must score or steal 5 points worth of King and Queen cards.
+To win the game a player must score or steal 5 points worth of King and Queen cards. Kings and Queens are scored by coronating them on your throne and advancing them the required number of times. They can also be "stolen" from an opponent's Throne or Stronghold after a successful Raid.
 
 ## Cards
 ### Kings and Queens
