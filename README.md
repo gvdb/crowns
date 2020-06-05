@@ -165,8 +165,7 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
 
 ## Variant with +3 Players
 The game can be played with 3 or more players:
-* For each additional player add an additional half-deck of cards to the game:
-    + For each extra player shuffle half a deck of cards into the full Deck
+* For each extra player shuffle a shuffled half deck of cards into the full Deck
 * As an additional condition of raiding, the raiding player must declare the player they're attacking as well as the target i.e. their Throne or Stronghold
 * All the same rules of raiding in a 2 player game apply once a raid is initiated between the two players
 * Forming and breaking alliances between players is encouraged in games of more than two players.
