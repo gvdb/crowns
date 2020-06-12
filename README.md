@@ -123,9 +123,20 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
     + To replace one card of an existing pair (recall replaced card to Stronghold)
 
 ## Raiding
-### Initiating a Raid
-* To perform a Raid, on their turn a player declares the target to Raid i.e. either the opposing player's Stronghold, or Throne. They may only choose a single target to Raid for the spent action
-* The raiding player may only raid a target for which they have Troops rallied e.g. Troops must be rallied in front of the raiding player's Stronghold if they want to raid the defending player's Throne
+### Encountering and Passing Troops
+* Troops in front of your Throne must be used to raid the opponent’s Keep, and troops in front of your Keep must be used to raid the opponent’s Throne
+* You can’t perform the raid action on the opponent’s Throne or Keep unless you have troops rallied in front of your Keep or Throne, respectively
+* All Troops must be turned face up to use in a raid (defending or attacking). The cards only need to be turned face up when comparing strength and suit (see below) i.e. if the attacking player can’t pass the outermost troops the defending player doesn’t need to reveal their innermost troops
+* To pass a set of defending troops the attacking troops must meet the following requirements:
+    + Strength: The strength of the attacking troops must be equal to or greater than the strength of the defending troops. Strength is the summation of the cards’ face values.
+        - Reinforcement: Attacking players can boost the strength of their troops by placing cards face down beside the troops being reinforced, for +1 strength per reinforcement card. Defending troops can’t be reinforced. “Reinforcement” cards are discarded at the end of the raid
+    + Suit: There must be at least one card in the attacking troops that matches the suit of a card in the defending troops. Cards used for reinforcement are placed face down, so do not count towards this
+    + Jack’s Toll: If any defending troops contain Jacks, the attacking player must “pay the Jack’s toll” by placing a card face down beside each Jack. These “toll” cards are discarded at the end of the raid
+* Once a set of attacking troops have been used in a raid they can’t be used again in the same raid
+* A raid ends when:
+    + A set of defending troops are encountered that can’t be passed
+    + The attacking player cancels the raid before accessing the target. A raid can be cancelled immediately after passing troops, including before accessing the target
+    + The attacking player successfully passes all defending troops and chooses to access the target
 
 ### Accessing Target
 * If there are no Troops protecting the target the Raiding player immediately gains access
@@ -138,21 +149,6 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
     + __King or Queen:__ The raiding player steals and scores it, adding it to their House
     + __Jack:__ The raiding player has fallen into a trap. The Jack is discarded and the defending player can choose to discard any pair of Troop cards from one of the raiding player's rally points
     + __No Cards:__ If there are no cards on the Throne the raid ends
-
-### Encountering and Passing Troops
-* If there are Troops protecting the Stronghold or Throne the raiding player must be able to pass them
-* If the rallied Troops are face down i.e. they haven't been "scouted" yet, when the raiding player encounters them the defending player turns them face up
-* To pass the opponent's Troops the raiding player may only use Troops in the same “lane” i.e. Troops in the raiding player's Throne can only counter Troops in the defending player's Stronghold, and vice-versa for countering Troops in the defending player's Throne
-* Troops used during a Raid must be turned face up
-* Troops are encountered starting with the outermost rallied Troops in the defending player's Realm for the target being raided
-* To pass encountered Troops the raiding player must satisfy two base requirements, and one conditional requirement:
-    + __Base Requirement 1:__ The Troops chosen to attack with, by the raiding player, must have a card that matches the __suit__ of one card in the defending Troops
-    + __Base Requirement 2:__ The __strength__ of the raiding Troops must match the face value of the defending Troops. The raiding Troops' strength is a summation of its face values and any cards the raiding player chooses to “spend” from their Stronghold to boost its strength. Spending cards in this way is referred to as *reinforcement*
-        - Each card spent is worth 1 strength point regardless of its face value. Cards used for reinforcement are placed face down on the Troops they are being applied to. At the end of the Raid any cards used for reinforcement are discarded
-    + __Conditional Requirement:__ If any of the rally points have a Jack on it the raiding player must pay one additional card to pass it (i.e. “pay the Jack's Toll”), regardless of strength values. However, the strength requirement must still be satisfied. If there are two Jacks on a single rally point the raiding player must pay a card for each Jack. Cards spent on the Jack's Toll are placed beside the Jack whose toll is being paid. Cards used to pay a toll are discarded once a Raid ends
-* Once a raiding player's Troop has been used for a Raid they can't be used again in the same Raid
-* The defending player can't reinforce Troops while being raided
-* A Raid ends when the raiding player encounters Troops they can't pass or they pass all the defending Troops and access the target. The raiding player may also choose to end the raid at any time i.e. even if they pass all the Troops they may choose to not access the target
 
 ## Ending the Game
 * To end the game a player must score or steal 5 points worth of Kings and Queens
