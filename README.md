@@ -37,7 +37,7 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 * __Deck:__ Where players draw cards from
 * __Strongholds:__ Represents the players' hands of cards
 * __Thrones:__ Where Kings, Queens, and Jacks can be “coronated” (face down) and advanced
-* __Houses:__ Where scored or stolen Kings and Queens are placed (face up)
+* __Houses:__ Where Kings and Queens are placed (face up) that have reigned or being stolen
 * __Tombs:__ Where discarded cards are placed (face up or face down)
 * __Rally Points / Troops:__ Empty Rally Points and sets of Troops that have been rallied in front of Strongholds and Thrones (face up or face down)
 
@@ -79,14 +79,14 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * A player may inspect any face up cards in the Tombs at any time during play. This is true of the player's own Tombs or viewing the opponent(s)
 
 ## Objective
-To win the game a player must score or steal 5 points worth of King and Queen cards. Kings and Queens are scored by coronating them on your throne and advancing them the required number of times. They can also be "stolen" from an opponent's Throne or Stronghold after a successful Raid.
+To win the game a player must have 5 points worth of Kings and/or Queens that have reigned or being stolen. Kings and Queens reign by coronating them on your throne and advancing them the required number of times. They can also be stolen from an opponent's Throne or Stronghold after a successful Raid.
 
 ## Cards
 ### Kings and Queens
 * The following things can be done to these cards:
-    + __Coronated:__ Place on the Throne face down to be advanced, and then scored (or stolen by an opposing player)
-    + __Advanced:__ Once placed on the Throne Kings and Queens can be advanced. To be scored Kings must be advanced 4 times, and Queens 3 times
-    + __Scored or Stolen:__ When scored or stolen a King or Queen is placed in the House area of the player who possesses it. Kings are worth 2 points and Queens are worth 1 point
+    + __Coronated:__ Place on the Throne face down to be advanced until their reign is complete or they are stolen by an opposing player
+    + __Advanced:__ Once placed on the Throne Kings and Queens can be advanced. To reign Kings must be advanced 4 times, and Queens 3 times
+    + __Reign or Stolen:__ When they reign or have been stolen a King or Queen is placed in the House area of the player who possesses it. Kings are worth 2 points and Queens are worth 1 point
 * Kings and Queens can't be used for advancing, rallying, reinforcing, payment, or any other purpose
 * If the player doesn't want Kings or Queens in their Stronghold, during the Discard Phase of their turn they can be shuffled back into the Deck. The player can only do this if it doesn't bring the number of cards in their Stronghold below 5
 
@@ -103,7 +103,7 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
 * Treated like a 10 for strength when rallied as a Troop card
 * Also has these additional abilities:
     + __On the Throne:__ Can be placed on the Throne like a King or Queen (i.e. coronated) to be advanced as a “False Crown”
-        - The Jack can't be scored and awards no points. Advancing has no effect other than to make the deception to the other player(s) more convincing
+        - The Jack can't reign and awards no points. Advancing has no effect other than to make the deception to the other player(s) more convincing
         - If accessed by a Raiding player (in the defending player's Throne) the defending player can remove a pair of Troop cards from a rally point of the raiding player's Throne or Stronghold. The Jack is then discarded
         - If a Jack is currently on a player's Throne and they want to put another card there, the Jack and any cards used to advance it are discarded to Tombs
     + __As a Troop:__ If placed as a part of a Troop it adds the additional requirement that the Raiding player must discard a card from their Stronghold to pass it, known as a toll. The Raiding player must still be able to match the strength of the Troops encountered to pass. Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
@@ -140,21 +140,21 @@ To win the game a player must score or steal 5 points worth of King and Queen ca
 * If there are no Troops protecting the target the Raiding player immediately gains access
 * If the Raiding player accesses the __Stronghold__ they may choose a single card from the other player's Stronghold. If it is a:
     + __Numbered (A–10):__ The Raiding player may discard it if they also discard a card from their Stronghold. Otherwise the card returns to the defending player's Stronghold
-    + __King or Queen:__ They may steal it and add it to their House to score it
+    + __King or Queen:__ They may steal it and add it to their House
     + __Jack:__ Then the raiding player must discard one card from their Stronghold to their Tombs. If they only have Kings or Queens they must pick one to be shuffled back into the Deck. If they have no cards, the raid ends
     + __No Cards:__ If there are no cards in the Stronghold the raid ends
 * If the Raiding player accesses the __Throne__, and there is a card on it, they may see the card there. If it is a:
-    + __King or Queen:__ The raiding player steals and scores it, adding it to their House
+    + __King or Queen:__ The raiding player steals it, adding it to their House
     + __Jack:__ The raiding player has fallen into a trap. The Jack is discarded and the defending player can choose to discard any pair of Troop cards from one of the raiding player's rally points
     + __No Cards:__ If there are no cards on the Throne the raid ends
 
 ## Ending the Game
-* To end the game a player must score or steal 5 points worth of Kings and Queens
+* To end the game a player must have 5 points worth of Kings and Queens that have reigned or being stolen
 * The game may also end when there are no cards left in the Deck:
     + Once the last card is drawn from the Deck the player who drew the card gets to finish their turn. If they manage to reach 5 points on this turn the game ends and they win
     + Otherwise the other player(s) get to play one last turn before the game ends. If anyone reaches 5 points on their final turn the game immediately ends and they win
     + If after the final turn no player has 5 points, the player with the most points wins
-    + If there's a draw on points, the player with the most Kings wins. If there are equal Kings or no Kings scored, it is a draw
+    + If there's a draw on points, the player with the most Kings wins. If there are equal Kings or no Kings in players' houses, it is a draw
 * The game may also end if all other players concede, leaving a single winner
 
 ## Variant with +3 Players
