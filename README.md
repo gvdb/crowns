@@ -157,7 +157,7 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
     + Once the last card is drawn from the Deck the player who drew the card gets to finish their turn. If they manage to reach 5 points on this turn the game ends and they win
     + Otherwise the game immediately ends
     + If after the final turn no player has 5 points, the player with the most points wins
-    + If there's a draw on points, the player with the most Kings wins. If there are equal Kings or no Kings in players' houses, it is a draw
+    + If there's a draw on points, the player with the most Kings wins. If there are equal Kings or no Kings in players' Houses, it is a draw
 * The game may also end if all other players concede, leaving a single winner
 
 ## Variant with +3 Players
