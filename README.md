@@ -15,9 +15,8 @@
     1. [Jacks](#jacks)
 7. [Rallying Troops](#rallying-troops)
 8. [Raiding](#raiding)
-    1. [Initiating a Raid](#initiating-a-raid)
-    1. [Accessing Target](#accessing-target)
     1. [Encountering and Passing Troops](#encountering-and-passing-troops)
+    1. [Accessing Target](#accessing-target)
 9. [Ending the Game](#ending-the-game)
 10. [Variant with +3 Players](#variant-with-+3-players)
 
