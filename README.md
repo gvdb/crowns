@@ -40,7 +40,7 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 * __Thrones:__ Where Kings, Queens, and Jacks can be “coronated” (face down) and advanced
 * __Houses:__ Where scored or stolen Kings and Queens are placed (face up)
 * __Tombs:__ Where discarded cards are placed (face up or face down)
-* __Rally Points / Troops:__ Empty Rally Points and Troops that have been rallied in front of Strongholds and Thrones (face up or face down)
+* __Rally Points / Troops:__ Empty Rally Points and sets of Troops that have been rallied in front of Strongholds and Thrones (face up or face down)
 
 ![alt text](https://github.com/gvdb/crowns/blob/master/play_areas.png "Play Areas")
 
