@@ -24,8 +24,6 @@
 ## Overview
 CROWNS is a game of strategy, cunning, and luck where players manage a realm's dynasty as kings and queens reign and fall. Choose when to coronate a monarch and seat them on the throne, oversee their rule, use the aristocracy to your advantage, and amass an army to protect your strongholds and usurp the royalty of rival kingdoms.
 
-Kings come and go, but the crown endures.
-
 ## Setup
 1.	Determine the dealer in whatever random way players choose
 1.	For a 2 player game, shuffle a deck of 52 standard playing cards (A – K, four suits)
