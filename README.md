@@ -58,7 +58,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
 ### Action Phase
 * The player then has three actions they may use on their turn
 * Players can pass on any actions in their turn
-* The actions available to a player are (DCARR):
+* The actions available to a player are (DCARRR):
     + __Draw:__ The player takes the top card from the Deck and adds it to their Stronghold
     + __Coronate:__ The player takes a card (J, Q, K) from their Stronghold and places it, face down, on the Throne (the area to their right)
     + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
