@@ -45,12 +45,12 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 
 ## Playing the Game
 Play progresses clock-wise, starting with the first player to the left of the dealer. A player's turn consists of three phases in the following order (DAD):
-1.	__Draw:__ At the beginning of their turn the player must draw one card from the Deck and add it to their Stronghold (i.e. hand)
-2.	__Actions:__ The player has three actions they may use on particular abilities
-3.	__Discard:__ If the player has more than 5 cards in their Stronghold they must discard down to 5 cards. If they have 5 or less cards this phase is skipped
+1.	__Draw:__ At the beginning of their turn the player must draw *one* card from the Deck and add it to their Stronghold (i.e. their hand)
+2.	__Actions:__ The player has *three* actions they may use on particular abilities
+3.	__Discard:__ If the player has more than *five* cards in their Stronghold they must discard down to 5 cards. If they have 5 or less cards this phase is skipped
 
 ### Draw Phase
-* A player's turn is started by drawing 1 card from the top of the Deck and adding it to their Stronghold
+* A player's turn is started by drawing one card from the top of the Deck and adding it to their Stronghold
 * A player cannot pass on this step
 * This step doesn't cost an action. Actions are only used in the Action Phase
 * If there are no cards in the Deck when the player begins their turn, this step is skipped and the player is allowed to finish their turn
