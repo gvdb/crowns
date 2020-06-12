@@ -53,10 +53,10 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * A player's turn is started by drawing one card from the top of the Deck and adding it to their Stronghold
 * A player cannot pass on this step
 * This step doesn't cost an action. Actions are only used in the Action Phase
-* If there are no cards in the Deck when the player begins their turn, this step is skipped and the player is allowed to finish their turn
+* If the player draws the last card in the deck they are allowed to finish their turn before the game ends
 
 ### Action Phase
-* The player then has 3 actions they may use on their turn
+* The player then has three actions they may use on their turn
 * Players can pass on any actions in their turn
 * The actions available to a player are (DCARR):
     + __Draw:__ The player takes the top card from the Deck and adds it to their Stronghold
@@ -64,7 +64,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
     + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
     + __Rally:__ The player places a card or cards (A – J) on rally points in front of their Throne or Stronghold
     + __Recall__: The player can return already rallied Troops back to their Stronghold. Note: If rallying new Troops where there are existing Troops, the existing Troops are automatically recalled to the Stronghold without having to spend an additional action for the recall
-    + __Raid:__ The player attacks an opponent's realm. If the player can pass all Rallied Troops defending a Throne or Stronghold they may access cards from the raided target. A player's House and Tombs can not be raided. The Deck cannot be raided
+    + __Raid:__ The player attacks an opponent's Realm. If the player can pass all Rallied Troops defending a Throne or Stronghold they may access cards from the raided target. A player's House and Tombs can not be raided. The Deck cannot be raided
 
 ### Discard Phase
 * Once all three actions are spent, or the player passes on their actions, if they have more than 5 cards in their Stronghold they must discard down to 5 cards
