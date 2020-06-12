@@ -1,9 +1,9 @@
-# How to Play CROWNS
+# CROWNS
 ## Table of Contents
 1. [Overview](#overview)
 2. [Setup](#setup)
 3. [Play Areas](#play-areas)
-4. [How to Play](#how-to-play)
+4. [Play Phases](#play-phases)
     1. [Draw Phase](#draw-phase)
     1. [Action Phase](#action-phase)
     1. [Discard Phase](#discard-phase)
@@ -43,7 +43,7 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 
 ![alt text](https://github.com/gvdb/crowns/blob/master/play_areas.png "Play Areas")
 
-## How to Play
+## Play Phases
 Play progresses clock-wise, starting with the first player to the left of the dealer. A player's turn consists of three phases in the following order (DAD):
 1.	__Draw:__ At the beginning of their turn the player must draw *one* card from the Deck and add it to their Stronghold (i.e. their hand)
 2.	__Actions:__ The player has *three* actions they may use on particular abilities
