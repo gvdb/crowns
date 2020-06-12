@@ -3,7 +3,7 @@
 1. [Overview](#overview)
 2. [Setup](#setup)
 3. [Play Areas](#play-areas)
-4. [How to Play the Game](#how-to-play-the-game)
+4. [How to Play](#how-to-play)
     1. [Draw Phase](#draw-phase)
     1. [Action Phase](#action-phase)
     1. [Discard Phase](#discard-phase)
@@ -43,7 +43,7 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 
 ![alt text](https://github.com/gvdb/crowns/blob/master/play_areas.png "Play Areas")
 
-## How to Play the Game
+## How to Play
 Play progresses clock-wise, starting with the first player to the left of the dealer. A player's turn consists of three phases in the following order (DAD):
 1.	__Draw:__ At the beginning of their turn the player must draw *one* card from the Deck and add it to their Stronghold (i.e. their hand)
 2.	__Actions:__ The player has *three* actions they may use on particular abilities
@@ -139,7 +139,7 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
     + The attacking player cancels the raid before they access the target. A raid can be cancelled immediately after troops are passed, including before the target is accessed
     + The attacking player successfully passes all defending troops and chooses to access the target
 
-### Accessing Target
+### Access Target
 * If there are no Troops protecting the target the Raiding player immediately gains access
 * If the Raiding player accesses the __Stronghold__ they may randomly choose a single card from the other player's Stronghold. If it is a:
     + __Numbered (A–10):__ The Raiding player may discard it if they also discard a card from their Stronghold. Otherwise the card returns to the defending player's Stronghold
@@ -151,7 +151,7 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
     + __Jack:__ The raiding player has fallen into a trap. The Jack is discarded and the defending player can choose to discard any pair of Troop cards from one of the raiding player's rally points
     + __No Cards:__ If there are no cards on the Throne the raid ends
 
-## Ending the Game
+## Game End
 * To end the game a player must have 5 points worth of Kings and Queens in their House
 * The game may also end when there are no cards left in the Deck:
     + Once the last card is drawn from the Deck the player who drew the card gets to finish their turn. If they manage to reach 5 points on this turn the game ends and they win
