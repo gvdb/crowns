@@ -152,7 +152,7 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
     + __No Cards:__ If there are no cards on the Throne the raid ends
 
 ## Game End
-* To end the game a player must have 5 points worth of Kings and Queens in their House
+* The game ends when a player has 5 points worth of Kings and Queens in their House
 * The game may also end when there are no cards left in the Deck:
     + Once the last card is drawn from the Deck the player who drew the card gets to finish their turn. If they manage to reach 5 points on this turn the game ends and they win
     + Otherwise the game immediately ends
