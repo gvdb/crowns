@@ -28,7 +28,7 @@ CROWNS is a game of strategy, cunning, and luck where players manage a realm's d
 1.	For a 2 player game shuffle a deck of 52 standard playing cards (A – K, four suits)
     1. See end of document for +3 player variant
 1.	The dealer deals 5 cards to each player
-1.	Any player may choose to "mulligan". A new hand is dealt and the cards from their original hand are shuffled back into the deck. Players can only mulligan once at the start of the game
+1.	Any player may choose to "mulligan". A new hand is dealt to the player and the cards from their original hand are shuffled back into the deck. Players can only mulligan once at the start of the game
 1.	Place the remaining Deck of cards between players. Each player will draw from this Deck
 1.	The player to the left of the dealer goes first and the order of players proceeds clockwise
 
