@@ -85,7 +85,7 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
 ## Cards
 ### Kings and Queens
 * The following things can be done to these cards:
-    + __Coronated:__ Place on the Throne face down to be advanced until their reign is complete or they are stolen by an opposing player
+    + __Coronated:__ Place on the Throne face down to be advanced until their reign is complete or they are stolen by an opposing player. Once coronated Kings and Queens can't be removed from the Throne until they have 'reigned' (i.e. they have being advanced the required number of times to be scored and added to the player's House) or another player has stolen them from the Throne
     + __Advanced:__ Once placed on the Throne Kings and Queens can be advanced. To reign Kings must be advanced 4 times, and Queens 3 times
     + __Reign or Stolen:__ When they reign or have been stolen a King or Queen is placed in the House area of the player who possesses it. Kings are worth 2 points and Queens are worth 1 point
 * Kings and Queens can't be used to advance, rally, reinforce, pay tolls, or any other purpose
