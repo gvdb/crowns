@@ -139,6 +139,8 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
     + The attacking player cancels the raid before they access the target. A raid can be cancelled immediately after troops are passed, including before the target is accessed
     + The attacking player successfully passes all defending troops and chooses to access the target
 
+![alt text](https://github.com/gvdb/crowns/blob/master/raid_flow.png "Raid Flow")
+
 ### Access Target
 * If there are no Troops protecting the target the Raiding player immediately gains access
 * If the Raiding player accesses the __Stronghold__ they may randomly choose a single card from the other player's Stronghold. If it is a:
