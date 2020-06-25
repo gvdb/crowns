@@ -33,7 +33,9 @@ CROWNS is a game of strategy, cunning, and luck where players manage a realm's d
 1.	The player to the left of the dealer goes first and the order of players proceeds clockwise
 
 ## Play Areas
-In CROWNS each player manages their own play area i.e. their Realm. A Realm consists of a House, Throne, Stronghold, Tombs, and Troop Rally Points (four for each player). At the beginning of the game, besides the Deck and the 5 cards in the players' hands (represented by their Stronghold), all areas are empty. The figure below is an example of an in-progress 2 player game. It illustrates the following:
+In CROWNS each player manages their own play area i.e. their Realm. A Realm consists of a House, Throne, Stronghold, Tombs, and Troop Rally Points (four for each player). At the beginning of the game, besides the Deck and the 5 cards in the players' hands (represented by their Stronghold), all areas are empty.
+
+The figure below is an example of an in-progress 2 player game. It illustrates the following:
 * __Deck:__ Where players draw cards from
 * __Strongholds:__ Represents the players' hands of cards
 * __Thrones:__ Where Kings, Queens, and Jacks can be “coronated” (face down) and advanced
@@ -67,7 +69,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
     + __Raid:__ The player attacks an opponent's Realm. If the player can pass all Rallied Troops defending a Throne or Stronghold they may access cards from the raided target. A player's House and Tombs can not be raided. The Deck cannot be raided
 
 ### Discard Phase
-* Once all three actions are spent, or the player passes on their actions, if they have more than 5 cards in their Stronghold they must discard down to 5 cards
+* After the action phase if the player has more than 5 cards in their Stronghold they must discard down to 5 cards
 * If the player has 5 or less cards in their Stronghold they are not allowed to discard any cards and this phase is skipped
 * Besides Kings and Queens, cards are discarded to the Tombs area
 * The player may remove Kings or Queens from their Stronghold during this phase, but they can't discard them to the Tombs. Instead they add them back to the Deck
