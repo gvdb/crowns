@@ -86,7 +86,7 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
 
 ## Cards
 ### Kings and Queens
-* The following things can be done to these cards:
+* The following things can be done to Kings and Queens:
     + __Coronated:__ Place on the Throne face down to be advanced until their reign is complete or they are stolen by an opposing player. Once coronated Kings and Queens can't be removed from the Throne until they have 'reigned' (i.e. they have being advanced the required number of times to be scored and added to the player's House) or another player has stolen them from the Throne
     + __Advanced:__ Once placed on the Throne Kings and Queens can be advanced. To reign Kings must be advanced 4 times, and Queens 3 times
     + __Reign or Stolen:__ When they reign or have been stolen a King or Queen is placed in the House area of the player who possesses it. Kings are worth 2 points and Queens are worth 1 point
@@ -94,7 +94,7 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
 * If the player doesn't want Kings or Queens in their Stronghold, during the Discard Phase of their turn they can be shuffled back into the Deck. The player can only do this if it doesn't bring the number of cards in their Stronghold below 5
 
 ### Numbered (A – 10)
-* These cards can be used for the following:
+* Numbered cards can be used for the following purposes:
     + __Rallying Troops:__ Place the card(s) as Troops on a rally point in front of the player's Stronghold or Throne. Troops are used to defense or offense during Raids
     + __Advancing:__ Place the card, face down, on a card on the Throne. Once a card is removed from the Throne the cards used for advancing are discarded
     + __Reinforcing:__ Place cards, face down, on existing Troops during a Raid. This does not cost an action. Once a Raid ends any cards used for reinforcing are discarded. Cards used for reinforcement are placed face down because their face value and suit are not considered when used for reinforcement
@@ -102,8 +102,8 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
 * Numbered cards can't be placed on the Throne (i.e. coronated) like Kings, Queens or Jacks
 
 ### Jacks (The Jack of all Trades)
-* Can be used in all the same ways that numbered cards are used i.e. can be used to advance, reinforce, pay tolls, and rally Troops 
-* Treated like a 10 for strength when rallied as a Troop card
+* Jacks can be used in all the same ways that numbered cards are used i.e. can be used to advance, reinforce, pay tolls, and rally Troops 
+* Treated like a 10 for strength when rallied as a Troop
 * Also has these additional abilities:
     + __On the Throne:__ Can be placed on the Throne like a King or Queen (i.e. coronated) to be advanced as a “False Crown”
         - The Jack can't reign and awards no points. Advancing has no effect other than to make the deception to other player(s) more convincing
