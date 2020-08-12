@@ -95,10 +95,10 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
 
 ### Numbered (A – 10)
 * Numbered cards can be used for the following purposes:
-    + __Rallying Troops:__ Place the card(s) as Troops on a rally point in front of the player's Stronghold or Throne. Troops are used to defense or offense during Raids
-    + __Advancing:__ Place the card, face down, on a card on the Throne. Once a card is removed from the Throne the cards used for advancing are discarded
-    + __Reinforcing:__ Place cards, face down, on existing Troops during a Raid. This does not cost an action. Once a Raid ends any cards used for reinforcing are discarded. Cards used for reinforcement are placed face down because their face value and suit are not considered when used for reinforcement
-    + __Payment:__ Place the card, face down, next to the Jack the toll is being paid for during a raid. Can also be used for payment when encountering a Jack in the opponent's Stronghold
+    + __Rally Troops:__ Place the card(s) as Troops on a rally point in front of the player's Stronghold or Throne. Troops are used for defense or offense during Raids, depending on which player initiated the Raid action
+    + __Advancement:__ Place the card, face down, on a card on the Throne. Once a card is removed from the Throne the cards used for advancing are discarded
+    + __Reinforcement:__ Place cards, face down, on existing Troops during a Raid. This does not cost an action and can only be done by the Raiding player. Once a Raid ends any cards used for reinforcement are discarded. Face value and suit are not considered for cards used for reinforcement, and so are placed face down
+    + __Toll Payment:__ Place the card, face down, next to the Jack the toll is being paid for during a raid
 * Numbered cards can't be placed on the Throne (i.e. coronated) like Kings, Queens or Jacks
 
 ### Jacks
