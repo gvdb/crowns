@@ -46,9 +46,9 @@ The figure below is an example of an in-progress 2 player game. It illustrates t
 ![alt text](https://github.com/gvdb/crowns/blob/master/play_areas.png "Play Areas")
 
 ## Play Phases
-Play progresses clock-wise, starting with the first player to the left of the dealer. A player's turn consists of three phases in the following order (DAD):
+Play progresses clock-wise, starting with the first player to the left of the dealer. A player's turn consists of three phases in the following order: Draw, Action, Discard (DAD):
 1.	__Draw:__ At the beginning of their turn the player must draw *one* card from the Deck and add it to their Stronghold (i.e. their hand)
-2.	__Actions:__ The player has *three* actions they may use on particular abilities
+2.	__Action:__ The player has *three* actions they may use on particular abilities
 3.	__Discard:__ If the player has more than *five* cards in their Stronghold they must discard down to 5 cards. If they have 5 or less cards this phase is skipped
 
 ### Draw Phase
@@ -58,9 +58,9 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * If the player draws the last card in the deck they are allowed to finish their turn before the game ends
 
 ### Action Phase
-* The player then has three actions they may use on their turn
+* During the action phase the player has three actions they may use on their turn
 * Players can pass on any actions in their turn
-* The actions available to a player are (DCARRR):
+* The actions available to a player are Draw, Coronate, Advance, Rally, Recall, and Raid (DCARRR):
     + __Draw:__ The player takes the top card from the Deck and adds it to their Stronghold
     + __Coronate:__ The player takes a card (J, Q, K) from their Stronghold and places it, face down, on the Throne (the area to their right)
     + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
@@ -82,7 +82,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * A player may inspect any face up cards in the Tombs at any time during play. This is true of the player's own Tombs or the opponent(s)
 
 ## Objective
-To win the game a player must have 5 points worth of Kings and/or Queens that have reigned or being stolen. Kings and Queens reign when they are advanced the required number of times after coronation. They can also be stolen from an opponent's Throne or Stronghold after a successful Raid.
+To win the game a player must have 5 points worth of Kings and/or Queens in their House. Kings and Queens are placed in a player's House after reigning or being stolen. Kings and Queens reign when they are advanced the required number of times after coronation. They can also be stolen from an opponent's Throne or Stronghold after a successful Raid.
 
 ## Cards
 ### Kings and Queens
