@@ -41,7 +41,7 @@ The figure below is an example of an in-progress 2 player game. It illustrates t
 * __Thrones:__ Where Kings, Queens, and Jacks can be “coronated” (face down) and advanced
 * __Houses:__ Where Kings and Queens are placed (face up) that have reigned or being stolen
 * __Tombs:__ Where discarded cards are placed (face up or face down)
-* __Rally Points / Troops:__ Empty Rally Points and sets of Troops that have been rallied in front of Strongholds and Thrones (face up or face down)
+* __Rally Points / Troops:__ Empty Rally Points and pairs of Troops that have been rallied in front of Strongholds and Thrones (face up or face down)
 
 ![alt text](https://github.com/gvdb/crowns/blob/master/play_areas.png "Play Areas")
 
@@ -85,9 +85,9 @@ Play progresses clock-wise, starting with the first player to the left of the de
 To win the game a player must have 5 points worth of Kings and/or Queens in their House. Kings and Queens are placed in a player's House after reigning or being stolen. Kings and Queens reign when they are advanced the required number of times after coronation. They can also be stolen from an opponent's Throne or Stronghold after a successful Raid.
 
 ## Rally Troops
-* A player has a total of four rally points where Troops can be placed; two in front of their Throne and two in front of their Stronghold. The House and Tombs have no rally points
+* A player has a total of four rally points where pairs of Troops (A–J) can be placed; two in front of their Throne and two in front of their Stronghold. The House and Tombs have no rally points
 * Troops must be placed at the innermost empty rally point
-* Sets of Troops on a rally point must always be a pair of cards
+* Troops on a rally point must always be a pair of cards
 * Newly rallied Troops may be placed face down to conceal the Troop strength and suit to the opposing player. Troops already face up must remain face up i.e. they have been “scouted”
 * Troops can be rallied in the following ways:
     + As a pair on an empty rally point
@@ -100,14 +100,14 @@ To win the game a player must have 5 points worth of Kings and/or Queens in thei
 * Troops in front of the Throne must be used to raid the opponent’s Keep, and troops in front of the Keep must be used to raid the opponent’s Throne
 * The Raid action cannot be performed on an opponent’s Throne or Keep unless there are troops rallied in front of the opposing Keep or Throne, respectively
 * All Troops must be turned face up to use in a raid, whether for defense or offense. The cards only need to be turned face up when strength and suit are compared (see below) i.e. if the attacking player can’t pass the outermost troops the defending player doesn’t need to reveal their innermost troops
-* To pass a set of defending troops the attacking troops must meet the following requirements:
+* To pass a pair of defending troops the attacking troops must meet the following requirements:
     + Strength: The strength of the attacking troops must be equal to or greater than the strength of the defending troops. Strength is the summation of the cards’ face values.
-        - Reinforcement: Raiding players can boost the strength of a single set of rallied troops by placing cards face down beside the troops being reinforced, for +1 strength per card used for reinforcement. Cards used for reinforcement are discarded at the end of the raid. Defending troops can’t be reinforced
+        - Reinforcement: Raiding players can boost the strength of a single pair of rallied troops by placing cards face down beside the troops being reinforced, for +1 strength per card used for reinforcement. Cards used for reinforcement are discarded at the end of the raid. Defending troops can’t be reinforced
     + Suit: There must be at least one card in the attacking troops that matches the suit of a card in the defending troops. Cards used for reinforcement are placed face down, so are not considered for the suit requirement
     + Jack’s Toll: If any defending troops contain Jacks, the attacking player must “Pay the Jack’s Toll” by placing a card face down beside each Jack for which a toll is being paid. Cards used to pay tolls are discarded at the end of the raid
-* Once a set of attacking troops have been used in a raid they can’t be used again in the same raid
+* Once a pair of attacking troops have been used in a raid they can’t be used again in the same raid
 * A raid ends when:
-    + A set of defending troops are encountered that can’t be passed
+    + A pair of defending troops are encountered that can’t be passed
     + The attacking player cancels the raid before they access the target. A raid can be cancelled immediately after troops are passed, including before the target is accessed
     + The attacking player successfully passes all defending troops and chooses to access the target
 
@@ -166,7 +166,7 @@ The game can be played with 3 or more players:
         - The Jack can't reign and awards no points. Advancing has no effect other than to make the deception to other player(s) more convincing
         - If accessed by a Raiding player (in the defending player's Throne) the defending player can remove a pair of Troop cards from a rally point of the Raiding player's Throne or Stronghold. The Jack is then discarded along with any cards used to advance it
         - If a Jack is currently on a player's Throne and they want to coronate another card there, the Jack and any cards used to advance it are discarded
-    + __As a Troop:__ If placed as a part of a set of Troops it adds the additional requirement that the Raiding player must pay “The Jack's Toll”. The Raiding player must still fulfill the strength and suit requirements to pass (see [Raids](#raids)). Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
+    + __As a Troop:__ If placed as a part of a pair of Troops it adds the additional requirement that the Raiding player must pay “The Jack's Toll”. The Raiding player must still fulfill the strength and suit requirements to pass (see [Raids](#raids)). Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
     + __In the Stronghold:__ During a Raid if a Jack is accessed from the defending player's Stronghold the Jack returns to the defending player's Stronghold and the raiding player must discard one card from their Stronghold to their Tombs
         - If the raiding player only has Kings or Queens, they choose one to be shuffled back into the Deck
         - If the raiding player has no cards in their Stronghold the raid ends
