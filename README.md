@@ -25,8 +25,8 @@ CROWNS is a game of strategy, cunning, and luck where players manage a realm's d
 
 ## Setup
 1.	Determine the dealer in whatever random way players choose
-1.	For a 2 player game shuffle a deck of 52 standard playing cards (A – K, four suits)
-    1. See end of document for +3 player variant
+1.	For a 2 player game shuffle a standard 52-playing-card deck (A – K, four suits)
+    1. See end of document for 3+ player variant
 1.	The dealer deals 5 cards to each player
 1.	Any player may choose to "mulligan". A new hand is dealt to the player and the cards from their original hand are shuffled back into the deck. Players can only mulligan once at the start of the game
 1.	Place the remaining Deck of cards between players. Each player will draw from this Deck
@@ -120,14 +120,14 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
 * Sets of Troops on a rally point must always be a pair of cards
 * Newly rallied Troops may be placed face down to conceal the Troop strength and suit to the opposing player. Troops already face up must remain face up i.e. they have been “scouted”
 * Troops can be rallied in the following ways:
-    + If placed on an empty rally point, Troops must be placed as a pair
-    + To replace an existing pair on a rally point (recall existing pair to Stronghold)
-    + To replace one card of an existing pair (recall replaced card to Stronghold)
-* If Troops are scouted, recalled, and rallied again, they may be placed face down if the player chooses
+    + As a pair on an empty rally point
+    + As a pair to replace an existing pair on a rally point (recall existing pair to Stronghold)
+    + As a single card to replace one card of an existing pair (recall replaced card to Stronghold)
+* If Troops are scouted and then recalled, they may be placed face down if rallied again
 
 ## Raids
 ### Pass Troops
-* Troops in front of your Throne must be used to raid the opponent’s Keep, and troops in front of your Keep must be used to raid the opponent’s Throne
+* Troops in front of the Throne must be used to raid the opponent’s Keep, and troops in front of the Keep must be used to raid the opponent’s Throne
 * You can’t perform the raid action on the opponent’s Throne or Keep unless you have troops rallied in front of your Keep or Throne, respectively
 * All Troops must be turned face up to use in a raid (defense or offense). The cards only need to be turned face up when strength and suit are compared (see below) i.e. if the attacking player can’t pass the outermost troops the defending player doesn’t need to reveal their innermost troops
 * To pass a set of defending troops the attacking troops must meet the following requirements:
@@ -145,14 +145,14 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
 
 ### Access Target
 * If there are no Troops protecting the target the Raiding player immediately gains access
-* If the Raiding player accesses the __Stronghold__ they may randomly choose a single card from the other player's Stronghold. If it is a:
+* If the Raiding player accesses the __Stronghold__ they may randomly choose a single card from the other player's Stronghold. If the chosen card is a:
     + __Numbered (A–10):__ The Raiding player may discard it if they also discard a card from their Stronghold. Otherwise the card returns to the defending player's Stronghold
     + __King or Queen:__ They may steal it and add it to their House
-    + __Jack:__ The raiding player must discard one card from their Stronghold to their Tombs. If they only have Kings or Queens they must pick one to be shuffled back into the Deck. If they have no cards, the raid ends
+    + __Jack:__ The raiding player must discard one card from their Stronghold to their Tombs. If they only have Kings or Queens they must pick one to be shuffled back into the Deck. If the Raiding player has no cards in their Stronghold, the raid ends
     + __No Cards:__ If there are no cards in the Stronghold the raid ends
 * If the Raiding player accesses the __Throne__, and there is a card on it, they may see the card there. If it is a:
     + __King or Queen:__ The raiding player steals it, adding it to their House
-    + __Jack:__ The raiding player has fallen into a trap. The Jack is discarded and the defending player can choose to discard any pair of Troop cards from one of the raiding player's rally points
+    + __Jack:__ The Raiding player has fallen into a trap. The Jack is discarded and the defending player can choose to discard any pair of Troop cards from one of the raiding player's rally points
     + __No Cards:__ If there are no cards on the Throne the raid ends
 
 ## Game End
@@ -161,12 +161,12 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
     + Once the last card is drawn from the Deck the player who drew the card gets to finish their turn. If they manage to reach 5 points on this turn the game ends and they win
     + Otherwise the game ends immediately after they complete their turn
     + If after the final turn no player has 5 points, the player with the most points wins
-    + If there's a draw on points, the player with the most Kings wins. If there are equal Kings or no Kings in players' Houses, it is a draw
+    + If there's a draw for points, the player with the most Kings wins. If there are equal Kings or no Kings in players' Houses, the game is a draw
 * The game may also end if all other players concede, leaving a single winner
 
-## Variant with +3 Players
+## Variant with 3+ Players
 The game can be played with 3 or more players:
-* For each extra player shuffle a shuffled half deck of cards into the full Deck
+* For each extra player shuffle 26 cards into the Deck
 * As an additional condition of raiding, the raiding player must declare the player they're attacking as well as the target i.e. their Throne or Stronghold
 * All the same rules of raiding in a 2 player game apply once a raid is initiated between the two players
 * Forming and breaking alliances between players is encouraged in games of more than two players.
