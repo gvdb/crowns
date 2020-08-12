@@ -9,16 +9,16 @@
     1. [Discard Phase](#discard-phase)
         1. [Tombs](#tombs)
 5. [Objective](#objective)
-6. [Cards](#cards)
+6. [Rally Troops](#rally-troops)
+7. [Raids](#raids)
+    1. [Pass Troops](#pass-troops)
+    1. [Access Target](#access-target)
+8. [Game End](#game-end)
+9. [Variant with +3 Players](#variant-with-+3-players)
+10. [Cards Reference](#cards)
     1. [Kings and Queens](#kings-and-queens)
     1. [Numbered (A – 10)](#numbered-(A-–-10))
     1. [Jacks](#jacks)
-7. [Rally Troops](#rally-troops)
-8. [Raids](#raids)
-    1. [Pass Troops](#pass-troops)
-    1. [Access Target](#access-target)
-9. [Game End](#game-end)
-10. [Variant with +3 Players](#variant-with-+3-players)
 
 ## Overview
 CROWNS is a game of strategy, cunning, and luck where players manage a realm's dynasty as kings and queens reign and fall. Choose when to coronate a monarch and seat them on the throne, oversee their rule, use the aristocracy to your advantage, and amass an army to protect your strongholds and usurp the royalty of rival kingdoms.
@@ -84,36 +84,6 @@ Play progresses clock-wise, starting with the first player to the left of the de
 ## Objective
 To win the game a player must have 5 points worth of Kings and/or Queens in their House. Kings and Queens are placed in a player's House after reigning or being stolen. Kings and Queens reign when they are advanced the required number of times after coronation. They can also be stolen from an opponent's Throne or Stronghold after a successful Raid.
 
-## Cards
-### Kings and Queens
-* The following things can be done to Kings and Queens:
-    + __Coronated:__ Place on the Throne face down to be advanced until their reign is complete or they are stolen by an opposing player. Once coronated Kings and Queens can't be removed from the Throne until they have 'reigned' (i.e. they have being advanced the required number of times to be scored and added to the player's House) or another player has stolen them from the Throne
-    + __Advanced:__ Once placed on the Throne Kings and Queens can be advanced. To reign Kings must be advanced 4 times, and Queens 3 times
-    + __Reign or Stolen:__ When they reign or have been stolen a King or Queen is placed in the House area of the player who possesses it. Kings are worth 2 points and Queens are worth 1 point
-* Kings and Queens can't be used to advance, rally, reinforce, pay tolls, or any other purpose
-* If the player doesn't want Kings or Queens in their Stronghold, during the Discard Phase of their turn they can be shuffled back into the Deck. The player can only do this if it doesn't bring the number of cards in their Stronghold below 5
-
-### Numbered (A – 10)
-* Numbered cards can be used for the following purposes:
-    + __Rally Troops:__ Place the card(s) as Troops on a rally point in front of the player's Stronghold or Throne. Troops are used for defense or offense during Raids, depending on which player initiated the Raid action
-    + __Advancement:__ Place the card, face down, on a card on the Throne. Once a card is removed from the Throne the cards used for advancing are discarded
-    + __Reinforcement:__ Place cards, face down, on existing Troops during a Raid. This does not cost an action and can only be done by the Raiding player. Once a Raid ends any cards used for reinforcement are discarded. Face value and suit are not considered for cards used for reinforcement, and so are placed face down
-    + __Toll Payment:__ Place the card, face down, next to the Jack the toll is being paid for during a raid
-* Numbered cards can't be placed on the Throne (i.e. coronated) like Kings, Queens or Jacks
-
-### Jacks
-* Jacks can be used in all the same ways that numbered cards are used i.e. they can be used to advance, reinforce, pay tolls, and rally Troops 
-* Treated like a 10 for strength when rallied as a Troop
-* Also has these additional abilities:
-    + __On the Throne:__ Can be placed on the Throne like a King or Queen (i.e. coronated) to be advanced as a “False Crown”
-        - The Jack can't reign and awards no points. Advancing has no effect other than to make the deception to other player(s) more convincing
-        - If accessed by a Raiding player (in the defending player's Throne) the defending player can remove a pair of Troop cards from a rally point of the Raiding player's Throne or Stronghold. The Jack is then discarded along with any cards used to advance it
-        - If a Jack is currently on a player's Throne and they want to coronate another card there, the Jack and any cards used to advance it are discarded
-    + __As a Troop:__ If placed as a part of a set of Troops it adds the additional requirement that the Raiding player must pay “The Jack's Toll”. The Raiding player must still fulfill the strength and suit requirements to pass (see [Raids](#raids)). Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
-    + __In the Stronghold:__ During a Raid if a Jack is accessed from the defending player's Stronghold the Jack returns to the defending player's Stronghold and the raiding player must discard one card from their Stronghold to their Tombs
-        - If the raiding player only has Kings or Queens, they choose one to be shuffled back into the Deck
-        - If the raiding player has no cards in their Stronghold the raid ends
-
 ## Rally Troops
 * A player has a total of four rally points where Troops can be placed; two in front of their Throne and two in front of their Stronghold. The House and Tombs have no rally points
 * Troops must be placed at the innermost empty rally point
@@ -170,5 +140,35 @@ The game can be played with 3 or more players:
 * As an additional condition of raiding, the raiding player must declare the player they're attacking as well as the target i.e. their Throne or Stronghold
 * All the same rules of raiding in a 2 player game apply once a raid is initiated between the two players
 * Forming and breaking alliances between players is encouraged in games of more than two players.
+
+## Cards Reference
+### Kings and Queens
+* The following things can be done to Kings and Queens:
+    + __Coronated:__ Place on the Throne face down to be advanced until their reign is complete or they are stolen by an opposing player. Once coronated Kings and Queens can't be removed from the Throne until they have 'reigned' (i.e. they have being advanced the required number of times to be scored and added to the player's House) or another player has stolen them from the Throne
+    + __Advanced:__ Once placed on the Throne Kings and Queens can be advanced. To reign Kings must be advanced 4 times, and Queens 3 times
+    + __Reign or Stolen:__ When they reign or have been stolen a King or Queen is placed in the House area of the player who possesses it. Kings are worth 2 points and Queens are worth 1 point
+* Kings and Queens can't be used to advance, rally, reinforce, pay tolls, or any other purpose
+* If the player doesn't want Kings or Queens in their Stronghold, during the Discard Phase of their turn they can be shuffled back into the Deck. The player can only do this if it doesn't bring the number of cards in their Stronghold below 5
+
+### Numbered (A – 10)
+* Numbered cards can be used for the following purposes:
+    + __Rally Troops:__ Place the card(s) as Troops on a rally point in front of the player's Stronghold or Throne. Troops are used for defense or offense during Raids, depending on which player initiated the Raid action
+    + __Advancement:__ Place the card, face down, on a card on the Throne. Once a card is removed from the Throne the cards used for advancing are discarded
+    + __Reinforcement:__ Place cards, face down, on existing Troops during a Raid. This does not cost an action and can only be done by the Raiding player. Once a Raid ends any cards used for reinforcement are discarded. Face value and suit are not considered for cards used for reinforcement, and so are placed face down
+    + __Toll Payment:__ Place the card, face down, next to the Jack the toll is being paid for during a raid
+* Numbered cards can't be placed on the Throne (i.e. coronated) like Kings, Queens or Jacks
+
+### Jacks
+* Jacks can be used in all the same ways that numbered cards are used i.e. they can be used to advance, reinforce, pay tolls, and rally Troops 
+* Treated like a 10 for strength when rallied as a Troop
+* Also has these additional abilities:
+    + __On the Throne:__ Can be placed on the Throne like a King or Queen (i.e. coronated) to be advanced as a “False Crown”
+        - The Jack can't reign and awards no points. Advancing has no effect other than to make the deception to other player(s) more convincing
+        - If accessed by a Raiding player (in the defending player's Throne) the defending player can remove a pair of Troop cards from a rally point of the Raiding player's Throne or Stronghold. The Jack is then discarded along with any cards used to advance it
+        - If a Jack is currently on a player's Throne and they want to coronate another card there, the Jack and any cards used to advance it are discarded
+    + __As a Troop:__ If placed as a part of a set of Troops it adds the additional requirement that the Raiding player must pay “The Jack's Toll”. The Raiding player must still fulfill the strength and suit requirements to pass (see [Raids](#raids)). Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
+    + __In the Stronghold:__ During a Raid if a Jack is accessed from the defending player's Stronghold the Jack returns to the defending player's Stronghold and the raiding player must discard one card from their Stronghold to their Tombs
+        - If the raiding player only has Kings or Queens, they choose one to be shuffled back into the Deck
+        - If the raiding player has no cards in their Stronghold the raid ends
 
 *Game designed by Glen van den Bergen*
