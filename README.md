@@ -101,15 +101,15 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
     + __Payment:__ Place the card, face down, next to the Jack the toll is being paid for during a raid. Can also be used for payment when encountering a Jack in the opponent's Stronghold
 * Numbered cards can't be placed on the Throne (i.e. coronated) like Kings, Queens or Jacks
 
-### Jacks (The Jack of all Trades)
-* Jacks can be used in all the same ways that numbered cards are used i.e. can be used to advance, reinforce, pay tolls, and rally Troops 
+### Jacks
+* Jacks can be used in all the same ways that numbered cards are used i.e. they can be used to advance, reinforce, pay tolls, and rally Troops 
 * Treated like a 10 for strength when rallied as a Troop
 * Also has these additional abilities:
     + __On the Throne:__ Can be placed on the Throne like a King or Queen (i.e. coronated) to be advanced as a “False Crown”
         - The Jack can't reign and awards no points. Advancing has no effect other than to make the deception to other player(s) more convincing
         - If accessed by a Raiding player (in the defending player's Throne) the defending player can remove a pair of Troop cards from a rally point of the Raiding player's Throne or Stronghold. The Jack is then discarded along with any cards used to advance it
         - If a Jack is currently on a player's Throne and they want to coronate another card there, the Jack and any cards used to advance it are discarded
-    + __As a Troop:__ If placed as a part of a set of Troops it adds the additional requirement that the Raiding player must discard a card from their Stronghold to pass it, known as a toll. The Raiding player must still fulfill the strength and suit requirements to pass (see [Raids](#raids)). Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
+    + __As a Troop:__ If placed as a part of a set of Troops it adds the additional requirement that the Raiding player must pay “The Jack's Toll”. The Raiding player must still fulfill the strength and suit requirements to pass (see [Raids](#raids)). Cards used to pay a toll are placed face down next to the Jack for which the toll is being paid. These cards are then discarded once the Raid ends
     + __In the Stronghold:__ During a Raid if a Jack is accessed from the defending player's Stronghold the Jack returns to the defending player's Stronghold and the raiding player must discard one card from their Stronghold to their Tombs
         - If the raiding player only has Kings or Queens, they choose one to be shuffled back into the Deck
         - If the raiding player has no cards in their Stronghold the raid ends
@@ -128,13 +128,13 @@ To win the game a player must have 5 points worth of Kings and/or Queens that ha
 ## Raids
 ### Pass Troops
 * Troops in front of the Throne must be used to raid the opponent’s Keep, and troops in front of the Keep must be used to raid the opponent’s Throne
-* You can’t perform the raid action on the opponent’s Throne or Keep unless you have troops rallied in front of your Keep or Throne, respectively
-* All Troops must be turned face up to use in a raid (defense or offense). The cards only need to be turned face up when strength and suit are compared (see below) i.e. if the attacking player can’t pass the outermost troops the defending player doesn’t need to reveal their innermost troops
+* The Raid action cannot be performed on an opponent’s Throne or Keep unless there are troops rallied in front of the opposing Keep or Throne, respectively
+* All Troops must be turned face up to use in a raid, whether for defense or offense. The cards only need to be turned face up when strength and suit are compared (see below) i.e. if the attacking player can’t pass the outermost troops the defending player doesn’t need to reveal their innermost troops
 * To pass a set of defending troops the attacking troops must meet the following requirements:
     + Strength: The strength of the attacking troops must be equal to or greater than the strength of the defending troops. Strength is the summation of the cards’ face values.
-        - Reinforcement: Attacking players can boost the strength of their troops by placing cards face down beside the troops being reinforced, for +1 strength per reinforcement card. Defending troops can’t be reinforced. “Reinforcement” cards are discarded at the end of the raid
-    + Suit: There must be at least one card in the attacking troops that matches the suit of a card in the defending troops. Cards used for reinforcement are placed face down, so do not count towards this
-    + Jack’s Toll: If any defending troops contain Jacks, the attacking player must “pay the Jack’s toll” by placing a card face down beside each Jack. The cards used to pay tolls are discarded at the end of the raid
+        - Reinforcement: Raiding players can boost the strength of a single set of rallied troops by placing cards face down beside the troops being reinforced, for +1 strength per card used for reinforcement. Cards used for reinforcement are discarded at the end of the raid. Defending troops can’t be reinforced
+    + Suit: There must be at least one card in the attacking troops that matches the suit of a card in the defending troops. Cards used for reinforcement are placed face down, so are not considered for the suit requirement
+    + Jack’s Toll: If any defending troops contain Jacks, the attacking player must “Pay the Jack’s Toll” by placing a card face down beside each Jack for which a toll is being paid. Cards used to pay tolls are discarded at the end of the raid
 * Once a set of attacking troops have been used in a raid they can’t be used again in the same raid
 * A raid ends when:
     + A set of defending troops are encountered that can’t be passed
