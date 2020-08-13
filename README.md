@@ -72,7 +72,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
 * After the action phase if the player has more than 5 cards in their Stronghold they must discard down to 5 cards
 * If the player has 5 or less cards in their Stronghold they are not allowed to discard any cards and this phase is skipped
 * Besides Kings and Queens, cards are discarded to the Tombs area
-* The player may remove Kings or Queens from their Stronghold during this phase, but they can't discard them to the Tombs. Instead they add them back to the Deck
+* The player may remove Kings or Queens from their Stronghold during this phase, but they can't discard them to the Tombs. Instead they are added back to the Deck
     + To do this they show their opponent(s) the Kings/Queens they are removing from their Stronghold, the opponent to their left then randomly cuts them back into the Deck. The dealer then shuffles the Deck
 * The next player, in clock-wise order, begins their turn
 
