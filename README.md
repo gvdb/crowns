@@ -37,7 +37,7 @@ In CROWNS each player manages their own play area i.e. their Realm. A Realm cons
 
 The figure below is an example of an in-progress 2 player game. It illustrates the following:
 * __Deck:__ Where players draw cards from
-* __Strongholds:__ Represents the players' hands of cards
+* __Strongholds:__ Represents the players' hand of cards
 * __Thrones:__ Where Kings, Queens, and Jacks can be “coronated” (face down) and advanced
 * __Houses:__ Where Kings and Queens are placed (face up) that have reigned or being stolen
 * __Tombs:__ Where discarded cards are placed (face up or face down)
@@ -64,8 +64,8 @@ Play progresses clock-wise, starting with the first player to the left of the de
     + __Draw:__ The player takes the top card from the Deck and adds it to their Stronghold
     + __Coronate:__ The player takes a card (J, Q, K) from their Stronghold and places it, face down, on the Throne (the area to their right)
     + __Advance:__ The player places a card (A – J), face down, on a card already on the Throne to advance it
-    + __Rally:__ The player places a card or cards (A – J) on rally points in front of their Throne or Stronghold
-    + __Recall__: The player can return already rallied Troops back to their Stronghold. Note: Existing Troops are automatically recalled to the Stronghold without having to spend an additional action for the recall when troops are rallied to the occupied rally point
+    + __Rally:__ The player places a card or pair of cards (A – J) on rally points in front of their Throne or Stronghold
+    + __Recall__: The player can return already rallied Troops back to their Stronghold. Note: Existing Troops are automatically recalled to the Stronghold without having to spend an additional action for the recall
     + __Raid:__ The player attacks an opponent's Realm. If the player can pass all Rallied Troops defending a Throne or Stronghold they may access cards from the raided target. A player's House and Tombs can not be raided. The Deck cannot be raided
 
 ### Discard Phase
@@ -85,7 +85,7 @@ Play progresses clock-wise, starting with the first player to the left of the de
 To win the game a player must have 5 points worth of Kings and/or Queens in their House. Kings and Queens are placed in a player's House after reigning or being stolen. Kings and Queens reign when they are advanced the required number of times after coronation. They can also be stolen from an opponent's Throne or Stronghold after a successful Raid.
 
 ## Rally Troops
-* A player has a total of four rally points where pairs of Troops (A–J) can be placed; two in front of their Throne and two in front of their Stronghold. The House and Tombs have no rally points
+* A player has a total of four rally points where pairs of Troops (A – J) can be placed; two in front of their Throne and two in front of their Stronghold. The House and Tombs have no rally points
 * Troops must be placed at the innermost empty rally point
 * Troops on a rally point must always be a pair of cards
 * Newly rallied Troops may be placed face down to conceal the Troop strength and suit to the opposing player. Troops already face up must remain face up i.e. they have been “scouted”
@@ -131,13 +131,14 @@ To win the game a player must have 5 points worth of Kings and/or Queens in thei
     + Once the last card is drawn from the Deck the player who drew the card gets to finish their turn. If they manage to reach 5 points on this turn the game ends and they win
     + Otherwise the game ends immediately after they complete their turn
     + If after the final turn no player has 5 points, the player with the most points wins
-    + If there's a draw for points, the player with the most Kings wins. If there are equal Kings or no Kings in players' Houses, the game is a draw
+    + If there's a draw for points, the player with the most Kings wins
+    + If there's a draw for points and there are equal Kings or no Kings in players' Houses, the game is a draw
 * The game may also end if all other players concede, leaving a single winner
 
 ## Variant with 3+ Players
 The game can be played with 3 or more players:
-* For each extra player shuffle 26 cards into the Deck
-* As an additional condition of raiding, the raiding player must declare the player they're attacking as well as the target i.e. their Throne or Stronghold
+* For each extra player shuffle 26 additional cards into the Deck
+* As an additional step of raiding, the raiding player must declare the player they're attacking as well as the target i.e. their Throne or Stronghold
 * All the same rules of raiding in a 2 player game apply once a raid is initiated between the two players
 * Forming and breaking alliances between players is encouraged in games of more than two players.
 
